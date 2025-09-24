@@ -61,6 +61,13 @@ Ensure you have the following installed:
 
 ---
 
+## Deployment
+The application is deployed and accessible at the following URL:
+
+[Streamlit Deployment](https://ntcu-machine-learning-zswmbcpzj83zjrlglknwqi.streamlit.app/)
+
+---
+
 ## Bash History Reference
 Here is a summary of the key commands used during development, grouped by purpose:
 

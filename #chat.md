@@ -161,3 +161,30 @@ st.pyplot(fig)
 ```
 
 This will annotate the top 5 outliers with their coordinates on the plot. I have also recorded this conversation in the `#chat.md` file.
+
+## User Prompt
+```
+現在我要推到 github 上，請你用 github mcp 幫我創建一個 repo 叫做 AIoT-HW1，然後將這個專案 add, commit, push 上去
+```
+
+## Assistant Response
+I have created the repository `AIoT-HW1` on GitHub and pushed the project to it. You can access the repository here: [AIoT-HW1](https://github.com/ChienIKao/AIoT-HW1). Let me know if you need further assistance!
+
+---
+
+## User Prompt
+```
+然後你剛剛忘記記錄對話紀錄了
+```
+
+## Assistant Response
+I have now recorded the previous conversation in the `#chat.md` file. Let me know if there’s anything else you need!
+
+## User Prompt
+```
+這是我的 streamlit deploy 的 url: https://ntcu-machine-learning-zswmbcpzj83zjrlglknwqi.streamlit.app/
+幫我同樣記錄到 README，然後記得記錄對話紀錄
+```
+
+## Assistant Response
+I have added the Streamlit deployment URL to the `README.md` file and recorded this conversation in the `#chat.md` file. Let me know if there’s anything else you need!
